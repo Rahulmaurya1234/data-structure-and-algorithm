@@ -1,0 +1,38 @@
+1-oops is object oriented programming language concepts
+
+2-object oriented programming  is  a way of structuring a program by bulding oops around objects    
+
+
+3-it has objects and classes
+
+4-class is a blueprint of a object and object is an instance of a class
+
+5-object is real world entity like cars , bike ,pen ,laptop,mobile etc
+
+jha aisi entities crete krni ode jo real world me exist kre vha class kuse krte hai
+
+
+# Access modifiers
+1-public : data and method can accessable everything
+2-private : data and method can accessable within the class only
+3-protected : data and method can accessable within the package and outside the package by child class only
+4-default : data and method can accessable within the package only
+
+in c++ by default everything is private
+in java by default everything is default
+
+
+
+4 piller has       1-encapsulation   
+                   2-abstraction
+                   3-inheritance
+                   4-polymorphism   
+
+  1-encapsulation  =    data properties + member functionS 
+    IT IS  dta hiding by private access modifier
+  2-abstraction = hiding internal details and showing only functionality to the user
+  3-inheritance = acquiring properties of one class to another class
+  4-polymorphism = one name many forms
+                   2-abstraction
+                   3-inheritance
+                   4-polymorphism
